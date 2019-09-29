@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-[About](https://www.google.com)
+[About](about.md)
 
-[Portfolio](https://www.google.com)
+[Portfolio](portfolio.md)
 
-[Contact](https://www.google.com)
+[Contact](contact.md)
