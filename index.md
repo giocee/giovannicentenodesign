@@ -4,6 +4,6 @@ title: Bootstrap 4 Github Pages
 ---
 [About](https://www.google.com)
 
-## Portfolio
+[Portfolio](https://www.google.com)
 
-## Contact
+[Contact](https://www.google.com)
