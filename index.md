@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Giovanni Centeno Design
+title: Giovanni Centeno
 ---
 [About](https://www.google.com)
 
