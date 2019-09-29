@@ -34,8 +34,8 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Open+Sans:400,700" !def
 }
 
 .bg-primary {
-  background-color: $primary !important;
-  border-color: darken($primary, 6.5%) !important;
+  background-color: $secondary !important;
+  border-color: darken($secondary, 6.5%) !important;
 }
 
 .bg-dark {
