@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Giovanni Centeno
 ---
 [About](https://www.google.com)
 
